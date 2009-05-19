@@ -1,0 +1,9 @@
+﻿
+'simanity' is a logger/tracer for 'simanity.jp (しまにてぃ)'.
+'simanity.jp' is one of online games as known as 'Hakoniwa Shoto (箱庭諸島)'.
+Now, 'simanity.jp' is out of services since 30 November 2007, and this application is obsolete ;-)
+
+xmlRPC libraries are necessary for building this application.
+
+  xmlRPC: 
+    http://github.com/tsupo/xmlRPC/tree
